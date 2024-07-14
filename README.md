@@ -8,9 +8,9 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 - Terraform
 ## Configuración
 Clonar el repositorio:
-´´´
+```
 git clone <url-del-repositorio>
-´´´
+```
 ### Iniciar Minikube:
 ```
 minikube start
